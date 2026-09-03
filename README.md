@@ -63,7 +63,7 @@ See `demo/DemoScene.gd` for a runnable example of both.
 ## License
 MIT License
 
-Copyright (c) 2026 Patrick Heil PawnxPawn
+Copyright (c) 2026 Patrick Heil (PawnxPawn)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
